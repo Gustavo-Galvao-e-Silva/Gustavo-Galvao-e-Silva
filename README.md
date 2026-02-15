@@ -1,6 +1,31 @@
-- 👋 Hi, I’m @Gustavo-Galvao-e-Silva, but you can call me Gus ;)
-- 👀 I’m interested in AI, ML, and data analysis.
-- 🌱 I’m currently learning software development in general :)
-- 💞️ I’m looking to collaborate on any Python projects! But specifically back-end and AI ones.
-- 📫 You can contact me on gustavo.galvaoesilva@gmail.com. Or follow me on LinkedIn.
-- ⚡ Fun fact: I am named after the Brazilian tennis player Gustavo Kuerten!
+# Hi, I'm Gustavo 👋
+
+Computer Science student at Georgia Tech with a focus on AI, data science, and backend development.
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, JavaScript, TypeScript, Java, C  
+**Areas of Interest:** Artificial Intelligence, Machine Learning, Data Analysis, Backend Development  
+**Currently Learning:** Software development best practices and advanced ML techniques
+
+## 📌 Featured Projects
+
+### [ISLP-Solutions](https://github.com/Gustavo-Galvao-e-Silva/ISLP-Solutions)
+Solutions to exercises from "An Introduction to Statistical Learning with Applications in Python"
+
+### [mathrix](https://github.com/Gustavo-Galvao-e-Silva/mathrix)
+Minimal Python-based linear algebra package for educational purposes
+
+### [Pyrticle](https://github.com/Gustavo-Galvao-e-Silva/Pyrticle)
+Python particle simulation project
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on Python projects, especially in backend development and AI/ML.
+
+📧 [gustavo.galvaoesilva@gmail.com](mailto:gustavo.galvaoesilva@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gustavo-galvao-e-silva-125884209/)
+
+---
+
+⚡ **Fun fact:** I'm a Mario Kart 8 fiend!
