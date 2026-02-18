@@ -6,7 +6,7 @@ Computer Science student at Georgia Tech with a focus on AI, data science, and b
 
 **Languages:** Python, JavaScript, TypeScript, Java, C  
 **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Analysis, Backend Development  
-**Currently Learning:** Software development best practices and advanced ML techniques
+**Currently Learning:** ML and Django
 
 ## 📌 Featured Projects
 
