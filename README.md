@@ -31,4 +31,4 @@ I'm always interested in collaborating on Python projects, especially in backend
 
 ---
 
-⚡ **Fun fact:** I'm a Mario Kart 8 fiend!
+⚡ **Fun fact:** I love Mario Kart 8
