@@ -16,12 +16,6 @@ Stress relief hardware and software app, first overall placement at Hackalytics 
 ### [panchi](https://github.com/Gustavo-Galvao-e-Silva/panchi)
 Minimal Python-based linear algebra package for educational purposes
 
-### [Pyrticle](https://github.com/Gustavo-Galvao-e-Silva/Pyrticle)
-Python particle simulation project
-
-### [ISLP-Solutions](https://github.com/Gustavo-Galvao-e-Silva/ISLP-Solutions)
-Solutions to exercises from "An Introduction to Statistical Learning with Applications in Python"
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on Python projects, especially in backend development and AI/ML.
