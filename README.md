@@ -13,7 +13,7 @@ Computer Science student at Georgia Tech with a focus on AI, data science, and b
 ### [Alleaf](https://github.com/Gustavo-Galvao-e-Silva/Alleaf)
 Stress relief hardware and software app, first overall placement at Hackalytics '26
 
-### [panchi](https://github.com/Gustavo-Galvao-e-Silva/panchi)
+### [panchi](https://github.com/Gustavo-Galvao-e-Silva/panchi) + [panchi examples](https://github.com/Gustavo-Galvao-e-Silva/panchi-examples)
 Minimal Python-based linear algebra package for educational purposes
 
 ## 🤝 Let's Connect
