@@ -1,17 +1,17 @@
 # Hi, I'm Gustavo 👋
 
-Computer Science student at Georgia Tech with a focus on AI, data science, and backend development.
+Hey :) I'm a Computer Science student at Georgia Tech with a focus on AI, data science, and backend development.
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python, JavaScript, TypeScript, Java, C  
+**Languages:** Python, JavaScript, TypeScript, Java
 **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Analysis, Backend Development  
-**Currently Learning:** ML and Django
+**Currently Learning:** Python, AWS, AI, Agent Orchestration systems, Simulations
 
 ## 📌 Featured Projects
 
 ### [Alleaf](https://github.com/Gustavo-Galvao-e-Silva/Alleaf)
-Stress relief hardware and software app, first overall placement at Hackalytics '26
+Stress relief hardware and software app, first overall placement at GaTech's Hackalytics '26
 
 ### [panchi](https://github.com/Gustavo-Galvao-e-Silva/panchi) + [panchi examples](https://github.com/Gustavo-Galvao-e-Silva/panchi-examples)
 Minimal Python-based linear algebra package for educational purposes
